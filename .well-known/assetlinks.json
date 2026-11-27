@@ -2,7 +2,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "in.worktracksaas.owner",
-        "sha256_cert_fingerprints": ["D5:7C:62:9B:06:AA:2A:B5:4B:FD:7F:6C:6D:E1:C3:2C:58:5D:66:AD:74:47:62:2E:AD:CA:A3:2A:D5:48:DD:76"]
+        "package_name": "io.github.shubhamkumar8413.twa",
+        "sha256_cert_fingerprints": ["E9:F4:38:C7:B9:48:E0:95:AB:48:9E:47:C6:3A:7C:9D:C6:73:E1:40:84:47:71:63:97:D1:83:9F:A9:FD:9E:DC"]
       }
     }]
